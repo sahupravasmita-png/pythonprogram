@@ -1,0 +1,11 @@
+print("enter a principal")
+p=int(input())
+print("enter a rate of interest")
+r=int(input())
+print("enter a time")
+t=int(input())
+si=p*r*t/100
+print("principal=",p)
+print("rate of interest=",r)
+print("time=",t)
+print("simple interest=",si)

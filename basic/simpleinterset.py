@@ -1,0 +1,9 @@
+p=1000
+r=10
+t=2
+si=p*r*t/100
+print("principal=",p)
+print("rate of interest=",r)
+print("time=",t)
+print("simple interest=",si)
+
