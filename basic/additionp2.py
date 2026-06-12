@@ -1,0 +1,11 @@
+print("enter a number")
+a=int(input())
+print("enter another number")
+b=int(input())
+print("enter another number")
+c=int(input())
+s=a+b+c
+print("number1=",a)
+print("number2=",b)
+print("number3=",c)
+print("summation of numbers=",s)
