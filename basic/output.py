@@ -7,3 +7,4 @@ b=5
 print(a>2 or b>9)
 print(a>2 and b>9)
 
+print(a<5 or b>6)
