@@ -8,3 +8,4 @@ if n==0:
 	print("zero")
 else:
 	print("invalid number")
+case_if n=0:print("zero")
