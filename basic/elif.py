@@ -6,4 +6,3 @@ elif a<0:
 	print("-ve")
 else:
 	print("zero")
-	
