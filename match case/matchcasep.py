@@ -1,10 +1,10 @@
 print("enter two number")
-a=int(input())
-b=int(input())
+no1=int(input("first number"))
+no2=int(input("second number"))
 print("enter your choice\n1.add\n2.sub\n3.mult")
-choice=int(input())
-match choice:
-    case 1: print("add=",a+b)
-    case 2:print("sub=",a-b)
-    case 3:print("mult=",a*b)
+ch=int(input())
+match ch:
+    case 1:print("result=",no1+no2)
+    case 2:print("result=",no1-no2)
+    case 3:print("result=",no1*no2)
     case _:print("invalid choice")
