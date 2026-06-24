@@ -1,0 +1,13 @@
+#wap take emp name age sal  and gender from keyboard display it
+print("enter emp name")
+name=input()
+print("enter age of emp")
+age=int(input())
+print("enter salary")
+sal=int(input())
+print("enter gender")
+gender=input()
+print("name=",name)
+print("age=",age)
+print("salary=",sal)
+print("gender",gender)
