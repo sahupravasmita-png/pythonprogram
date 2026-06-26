@@ -1,3 +1,4 @@
+#no return value with argument
 def check(n):
 	if n%2==0:
 		print("even")

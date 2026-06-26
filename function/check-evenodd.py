@@ -1,3 +1,4 @@
+#no return value no argument
 def check():
 	print("enter a number")
 	n=int(input())
