@@ -6,3 +6,4 @@ print("B".islower())
 print(" ".isspace())
 print("r m".isspace())
 print("Ram Das".istitle())
+
