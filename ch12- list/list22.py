@@ -1,3 +1,4 @@
+#input output
 L=[0,0,0,0]
 s=0
 print("enter",len(L),"elements")
