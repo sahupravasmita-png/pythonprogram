@@ -1,0 +1,3 @@
+#s={} dictionary
+s={7,8,12,7,9,8}
+print(s)

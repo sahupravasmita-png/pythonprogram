@@ -1,0 +1,6 @@
+t=(5,8,7,4) 
+L=list(t)
+L.insert(2,12)
+t1=tuple(L)
+print(t)
+print(t1)
