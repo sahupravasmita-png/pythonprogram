@@ -1,0 +1,5 @@
+s1={3,5,8,9}
+s1.pop()
+print(s1)
+s1.clear()
+print(s1)

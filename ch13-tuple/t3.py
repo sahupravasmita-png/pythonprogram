@@ -1,0 +1,4 @@
+#indexing and slicing concept available
+t=(5,8,12,3,8)
+print(t[1],t[-4])
+print(t[2:4:1])

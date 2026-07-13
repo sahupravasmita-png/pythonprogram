@@ -1,0 +1,10 @@
+#operator
+t=(5,8,12)
+print(12 in t )
+print(7 in t )
+print(7 not in t )
+t1=(8,5,12)
+print(t==t1)
+t2=(5,8,12)
+print(t2==t)
+print(t1<t2)
