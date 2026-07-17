@@ -1,4 +1,5 @@
 #multiplication of two no without using multiplication
+#5+5+5=15
 no1=3
 no2=5
 m=0
